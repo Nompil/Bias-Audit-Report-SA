@@ -7,7 +7,7 @@ This repository contains a bias audit for a synthetic employment prediction data
 - **[Download Notebook PDF (Bias_Audit_Report_SA.pdf)](https://github.com/Nompil/Bias-Audit-Report-SA/raw/main/Bias_Audit_Report_SA.pdf)**: PDF export of the notebook.
 - **[Download Presentation Slides (Presentation_Slides.pdf)](https://github.com/Nompil/Bias-Audit-Report-SA/raw/main/PowerPointBiasinAIEmploymentPredictionASouthAfricanLens.pdf)**: 7-slide Canva presentation summarizing findings.
 - **[Download Ethics Statement (Ethics_Statement.pdf)](https://github.com/Nompil/Bias-Audit-Report-SA/raw/main/BiasAuditReportEthicsStatement.pdf)**: 500-word ethics statement (humanized, non-AI-detectable).
-- **[View Visuals Folder](https://github.com/Nompil/Bias-Audit-Report-SA/tree/main/visuals)**: PNGs of visualizations [](https://github.com/Nompil/Bias-Audit-Report-SA/blob/main/visuals/gini.png).
+- **[View Visuals_Zip_Folder](https://github.com/Nompil/Bias-Audit-Report-SA/tree/main/visuals.zip)**: PNGs of visualizations [](https://github.com/Nompil/Bias-Audit-Report-SA/blob/main/visuals.zip/gini.png).
 - **[View_Reference_List_(ReferenceList.pdf)](https://github.com/Nompil/Bias-Audit-Report-SA/tree/main/ReferenceList.pdf)**: Documented references.
 
 ## Key Findings
