@@ -8,7 +8,7 @@ This repository contains a bias audit for a synthetic employment prediction data
 - **[Download Presentation Slides (Presentation_Slides.pdf)](https://github.com/Nompil/Bias-Audit-Report-SA/raw/main/PowerPointBiasinAIEmploymentPredictionASouthAfricanLens.pdf)**: 7-slide Canva presentation summarizing findings.
 - **[Download Ethics Statement (Ethics_Statement.pdf)](https://github.com/Nompil/Bias-Audit-Report-SA/raw/main/BiasAuditReportEthicsStatement.pdf)**: 500-word ethics statement (humanized, non-AI-detectable).
 - **[View Visuals Folder](https://github.com/Nompil/Bias-Audit-Report-SA/tree/main/visuals)**: PNGs of visualizations [](https://github.com/Nompil/Bias-Audit-Report-SA/blob/main/visuals/gini.png).
-- **[Reference List](https://github.com/Nompil/ReferenceList/tree/main/visuals)**: PNGs of visualizations [](https://github.com/Nompil/Bias-Audit-Report-SA/blob/main/visuals/gini.png).
+- **[Download_Reference List_(ReferenceList.pdf)](https://github.com/Nompil/Bias-Audit-Report-SA/tree/main/ReferenceList)**: Documented references.
 
 ## Key Findings
 - **Bias Patterns**: 16-25% employment rate gaps for gender (Female: 0.557, Male: 0.715) and race (Non-White: 0.594, White: 0.845), validated by chi-squared tests (p<0.05) [<a href="#ref12">12</a>].
