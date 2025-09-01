@@ -3,6 +3,14 @@
 ## Project Overview
 This repository, hosted by the Masikhule organization, presents a bias audit of a synthetic employment prediction dataset (income > R50,000/year), simulating IBM AI Fairness 360. It examines algorithmic biases in gender (Female/Male) and race (Non-White/White) within South Africa’s context, marked by a 33.2% unemployment rate [<a href="#ref5">5</a>], a Gini coefficient of 0.63 [<a href="#ref0">0</a>], and historical inequalities from apartheid. Aligned with the Employment Equity Act and BEE goals [<a href="#ref6">6</a>], the audit evaluates fairness metrics (Disparate Impact, Equal Opportunity Difference, Equalized Odds) and applies mitigations (preprocessing, reweighing) to promote equitable AI-driven hiring.
 
+## Team Members
+- Nompilo Mchunu
+- Siyabonga Mdaweni
+- Godlove Nyathi
+- Neliswa Mbele
+- Kabelo Mushi
+- Adivhaho Ndou
+
 ## Objectives
 - Identify biases in gender and race using statistical tests (chi-squared, p<0.05).
 - Implement and evaluate preprocessing and reweighing mitigations.
