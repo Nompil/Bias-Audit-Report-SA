@@ -17,24 +17,24 @@ Using a synthetic dataset (80% non-White [<a href="#ref0">0</a>]), we trained a 
 - **SA Context**: Addresses unemployment (33.2% [<a href="#ref5">5</a>]), Gini (0.63 [<a href="#ref0">0</a>]), and apartheid legacies [<a href="#ref6">6</a>].
 
 ## Deliverables
-- **[View Notebook (Bias_Audit_Report_SA.ipynb)](https://github.com/Masikhule/Bias-Audit-Report-SA/blob/main/Bias_Audit_Report_SA.ipynb)**: Jupyter notebook with code, analysis, and visualizations. View via [nbviewer](https://nbviewer.jupyter.org/github/Masikhule/Bias-Audit-Report-SA/blob/main/Bias_Audit_Report_SA.ipynb) or run locally (see Usage).
-- **[Download Notebook PDF (Bias_Audit_Report_SA.pdf)](https://github.com/Masikhule/Bias-Audit-Report-SA/raw/main/Bias_Audit_Report_SA.pdf)**: PDF export of the notebook.
-- **[Download Presentation Slides (Presentation_Slides.pdf)](https://github.com/Masikhule/Bias-Audit-Report-SA/raw/main/Presentation_Slides.pdf)**: 7-slide Canva summary.
-- **[Download Ethics Statement (Ethics_Statement.pdf)](https://github.com/Masikhule/Bias-Audit-Report-SA/raw/main/Ethics_Statement.pdf)**: 500-word ethics statement.
-- **[View Visuals Folder](https://github.com/Masikhule/Bias-Audit-Report-SA/tree/main/visuals)**: PNGs [](https://github.com/Masikhule/Bias-Audit-Report-SA/blob/main/visuals/gini.png).
+- **[View Notebook (Bias_Audit_Report_SA.ipynb)](https://github.com/Nompil/Bias-Audit-Report-SA/blob/main/Bias_Audit_Report_SA.ipynb)**: Jupyter notebook with code, analysis, and visualizations. View via [nbviewer](https://nbviewer.jupyter.org/github/Nompil/Bias-Audit-Report-SA/blob/main/Bias_Audit_Report_SA.ipynb) or run locally (see Usage).
+- **[Download Notebook PDF (Bias_Audit_Report_SA.pdf)](https://github.com/Nompil/Bias-Audit-Report-SA/raw/main/Bias_Audit_Report_SA.pdf)**: PDF export of the notebook.
+- **[Download Presentation Slides (Presentation_Slides.pdf)](https://github.com/Nompil/Bias-Audit-Report-SA/raw/main/Presentation_Slides.pdf)**: 7-slide Canva summary.
+- **[Download Ethics Statement (Ethics_Statement.pdf)](https://github.com/Nompil/Bias-Audit-Report-SA/raw/main/BiasAuditReportEthicsStatement.pdf)**: 500-word ethics statement.
+- **[View Visuals Folder](https://github.com/Nompil/Bias-Audit-Report-SA/tree/main/visuals)**: PNGs [](https://github.com/Nompil/Bias-Audit-Report-SA/blob/main/visuals/gini.png).
 
 ## Usage
 1. **Run the Notebook**:
-   - Download **[Bias_Audit_Report_SA.ipynb](https://github.com/Masikhule/Bias-Audit-Report-SA/raw/main/Bias_Audit_Report_SA.ipynb)**.
+   - Download **[Bias_Audit_Report_SA.ipynb](https://github.com/Nompil/Bias-Audit-Report-SA/raw/main/Bias_Audit_Report_SA.ipynb)**.
    - Install dependencies: `pip install numpy pandas torch sklearn matplotlib scipy`.
    - Open in Jupyter Notebook or Google Colab.
    - Run all cells to reproduce analysis and visualizations.
-   - Alternatively, view statically via [nbviewer](https://nbviewer.jupyter.org/github/Masikhule/Bias-Audit-Report-SA/blob/main/Bias_Audit_Report_SA.ipynb).
-2. Download **[Bias_Audit_Report_SA.pdf](https://github.com/Masikhule/Bias-Audit-Report-SA/raw/main/Bias_Audit_Report_SA.pdf)** for a static version.
-3. Review **[Presentation_Slides.pdf](https://github.com/Masikhule/Bias-Audit-Report-SA/raw/main/Presentation_Slides.pdf)** and **[Ethics_Statement.pdf](https://github.com/Masikhule/Bias-Audit-Report-SA/raw/main/Ethics_Statement.pdf)**.
+   - Alternatively, view statically via [nbviewer](https://nbviewer.jupyter.org/github/Nompil/Bias-Audit-Report-SA/blob/main/Bias_Audit_Report_SA.ipynb).
+2. Download **[Bias_Audit_Report_SA.pdf](https://github.com/Nompil/Bias-Audit-Report-SA/raw/main/Bias_Audit_Report_SA.pdf)** for a static version.
+3. Review **[Presentation_Slides.pdf](https://github.com/Nompil/Bias-Audit-Report-SA/raw/main/Presentation_Slides.pdf)** and **[Ethics_Statement.pdf](https://github.com/Nompil/Bias-Audit-Report-SA/raw/main/BiasAuditReportEthicsStatement.pdf)**.
 
 ## License
-MIT License [](https://github.com/Masikhule/Bias-Audit-Report-SA/blob/main/LICENSE).
+MIT License [](https://github.com/Nompil/Bias-Audit-Report-SA/blob/main/LICENSE).
 
 ## References
 - <a name="ref0"></a>[0] Coetzer, W., & van Zyl, J. (2024). *Artificial intelligence and skilled employment in South Africa*. South African Journal of Economic and Management Sciences, 27(1), 45-56. [https://sajems.org/index.php/sajems/article/view/1234](https://sajems.org/index.php/sajems/article/view/1234)
